@@ -1,0 +1,4 @@
+/DS_venv/*
+/.ipynb_checkpoints/*
+google_api_key.py
+/.idea/*

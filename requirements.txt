@@ -1,0 +1,5 @@
+google-generativeai
+docx2python
+numpy
+pandas
+scikit-learn
